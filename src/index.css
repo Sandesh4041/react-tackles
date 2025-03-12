@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+nav ul li {
+  cursor: pointer;
+}
+
+nav ul li:hover {
+  border-bottom: 2px solid green;
+}
+
+.footer-item-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+  grid-template-areas: "item1 item1 item2 item3";
+}
+
+.footer-item-grid div:nth-child(1) {
+  grid-area: item1;
+}
+.footer-item-grid div:nth-child(2) {
+  grid-area: item2;
+}
+.footer-item-grid div:nth-child(3) {
+  grid-area: item3;
+}
+
+@media screen and (max-width: 1000px) {
+  .footer-item-grid {
+    grid-template-areas:
+      "item1 item1 item1 item1"
+      "item2 item2 item3 item3";
+  }
+}
+@media screen and (max-width: 500px) {
+  .footer-item-grid {
+    grid-template-areas:
+      "item1 item1 item1 item1"
+      "item2 item2 item2 item2"
+      "item3 item3 item3 item3";
+  }
+}
+
+.leftgallery img {
+  width: 95%;
+  height: 200px;
+}
+.rightgallery img {
+  width: 95%;
+  height: 200px;
+}
+.leftgallery img:hover {
+  transform: scale(1.1);
+  transition: transform 0.5s; 
+  cursor: pointer;
+}
+.gallery img:hover {
+  transform: scale(1.1);
+  transition: transform 0.5s;
+  cursor: pointer;
+}
+.leftgallery{
+  display: grid;
+  margin-right: auto;
+  margin-left: auto;
+  gap: 20px;
+  width: 60%;
+  grid-template-columns: 1fr 1fr;
+}
+.rightgallery{
+display: flex ;
+flex-direction: column;
+margin-right: auto;
+margin-left: auto;
+gap: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .leftgallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+.popUp{
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.gallery{
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.gallery img{
+  display: flex;
+  max-width: 250px;
+  height: auto;
+}

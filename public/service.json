@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+       "icon":"/images/serviceOne.png",
+       "title":"Painting",
+       "description":"If you’re looking for painting service, we offer expert consultation on colours, materials and budgets to make sure you get what you want. Our professionals are highly skilled and will deliver a satisfying painting experience."
+    },{
+        "id": 2,
+       "icon":"/images/serviceTwo.png",
+       "title":"Plumbing",
+       "description":"Rusty and Leaking pipes can be pain in the head. Our clients don't need to worry about plumbing works since Tackles has group of professionals to get the work done."
+        },
+    {
+        "id": 3,
+       "icon":"/images/serviceThree.png",
+       "title":"Plaster",
+       "description":"We will take care of plaster work on both interior and exterior part of your house or apartment with full professionality. Whether it is a leaking celling or damaged floor/wall, our professionals will fix it with best result."    },
+    {
+        "id": 4,
+       "icon":"/images/serviceFour.png",
+       "title":"Wall Paper Fixing",
+       "description":"Bad coloring or dirty wall decreases the beauty of your house, we got you covered with our attractive designs of wallpaper to make your house look new."
+        },
+    {
+        "id": 5,
+       "icon":"/images/serviceFive.png",
+       "title":"Floor & Wall Tiling",
+       "description":"Tiling is an effective way to add elegance & style to any room of your building. Whether it is toilet or kitchen, every room of your building is beautiful when we are hired."
+    },
+    {
+        "id": 6,
+       "icon":"/images/serviceSix.png",
+       "titlel":"Carpentry and Flooring",
+       "description":"We repair, design and install quality flooring at best prices. By hiring our services, you can transform the style of entire house. Simple floor can be replaced with attractive wood flooring."
+    },
+    {
+        "id": 7,
+       "icon":"/images/serviceSeven.png",
+       "title":"Air Conditioning",
+       "description":"Whether it is hot sunny day or cold winter night, Our air conditioning service will let you be at the best room temperature for you. Our AC system is budget friendly and durable."
+    },
+    {
+        "id": 8,
+       "icon":"/images/serviceEight.png",
+       "title":"Air Filtration",
+       "description":"Breathing dirty air will cause disease and death in worst case scenario. Don't take any risks since we provide air filtration system which will filter air at best in adequate price."
+    },
+    {
+        "id": 9,
+       "icon":"/images/serviceNine.png",
+       "title":"Cladding",
+       "description":"Cladding Insulates the temperature of the building and provides a better appearance to the building. Don't miss our professionals cladding work since they are the best."
+    }
+]

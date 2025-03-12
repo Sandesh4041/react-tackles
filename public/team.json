@@ -1,0 +1,56 @@
+[
+    { 
+        "id": 1 ,
+        "name":"RAJU KHATRI",
+        "role":"Founder",
+        "image":"/images/teamOne.png"
+},
+    { 
+        "id": 1 ,
+        "name":"Pritambar Ghimire",
+        "role":"Electrican",
+        "image":"/images/teamTwo.png"
+},
+    { 
+        "id": 1 ,
+        "name":"Gopak sinjali magar",
+        "role":"Senior Electrican",
+        "image":"/images/teamThree.png"
+},
+    { 
+        "id": 1 ,
+        "name":"dharma thapa",
+        "role":"Mason",
+        "image":"/images/teamFour.png"
+},
+    { 
+        "id": 1 ,
+        "name":"rajendra",
+        "role":"Tile/Mason",
+        "image":"/images/teamFive.png"
+},
+    { 
+        "id": 1 ,
+        "name":"Tom Lal pandey",
+        "role":"Site Incharge",
+        "image":"/images/teamSix.png"
+},
+    { 
+        "id": 1 ,
+        "name":"bishnu pandey",
+        "role":"Spray Painter",
+        "image":"/images/teamSeven.png"
+},
+    { 
+        "id": 1 ,
+        "name":"quiyam",
+        "role":"Supervisor",
+        "image":"/images/teamEight.png"
+},
+    { 
+        "id": 1 ,
+        "name":"Sunil kumar",
+        "role":"Tile Mason",
+        "image":"/images/teamNine.png"
+}
+]

@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "image":"/images/one.jpg",
+    "title":"Professional service marketplace",
+    "description":"Hire a Plumber in Dubai",
+    "buttonOne":"More Services",
+    "buttonTwo":"Book a Services"
+},
+{
+    "id":2,
+    "image":"/images/two.jpg",
+    "title":"Repair,Shifting and Cleaning",
+    "description":"Ac Maintainance in Dubai",
+    "buttonOne":"More Services",
+    "buttonTwo":"Book a Services"
+},
+{
+    "id":3,
+    "image":"/images/three.jpg",
+    "title":"Color Therapy",
+    "description":"Painting Services in Dubai",
+    "buttonOne":"More Services",
+    "buttonTwo":"Book a Services"
+}
+]

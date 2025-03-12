@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "icon":"bx bx-time",
+        "title":"Always Available",
+        "description":"Our Team is always ready at your service and we are just one call to fix your problems."
+    },{
+        "id":2,
+        "icon":"bx bx-diamond",
+         "title":"durable output",
+        "description":"Our finished product is more durable and reliable in need since we are dedicated to the work."
+    },
+    {
+        "id":3,
+        "icon":"bx bx-coin-stack",
+        "title":"adequate prices",
+        "description":"Tackles provides best services in fair budget plan. We prevent you from being fooled by fair services."
+
+    },
+    {
+        "id":4,
+        "icon":"bx bxs-coin-stack",
+        "title":"multiple projects",
+        "description":"We can handle many types of projects related to designing and maintenance and also electronics."
+    },
+    {
+        "id":5,
+        "icon":"bx bx-like",
+        "title":"Honest workers",
+        "description":"we are completely honest with our work which makes us trustworthy with our clients."
+    },
+    {
+        "id":6,
+        "icon":"bx bx-check-circle",
+        "title":"quality services",
+        "description":"We do not compromise on the quality of our service. Our company provides the best services ever."
+    },
+    {
+        "id":7,
+        "icon":"bx bx-time",
+        "title":"expert members",
+        "description":"We have Experts in our team so there wont be any errors in our projects."
+    },
+    {
+        "id":8,
+        "icon":"bx bx-cart",
+        "title":"amazing offers",
+        "description":"We provide best offers and services to our clients so that we can be in mutual benefit working together."
+    }
+]

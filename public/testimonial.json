@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "image":"/images/oone.png",
+        "name":"Sameer Azeem Shadid",
+        "description":"TACKLES did an exceptional job with the painting in our office. The finish was flawless, and they completed the work ahead of schedule. Highly recommended for any painting needs!"
+    },{
+        "id":2,
+        "image":"/images/ttwo.png",
+        "name":"Jaxon De Garis",
+        "description":"The team at TACKLES provided outstanding service for our air conditioning and filtration systems. Their expertise and prompt service ensured our system is running efficiently. Fantastic job!"
+    },
+    {
+        "id":3,
+        "image":"/images/tthree.png",
+        "name":"João Santos Dias",
+        "description":"I’m very pleased with the plaster and cladding work done by TACKLES. The attention to detail and quality of materials used were top-notch. Our home looks fantastic!"
+    },
+    {
+        "id":4,
+        "image":"/images/four.png",
+        "name":"Wen Tai",
+        "description":"TACKLES transformed our space with their wallpaper fixing service. The installers were professional, and the final result exceeded our expectations. Definitely a company you can trust for wallpaper projects!"
+
+    },{
+        "id":5,
+        "image":"/images/five.png",
+        "name":"Haron Idsinga",
+        "description":"The floor and wall tiling completed by TACKLES was impressive. The tilers were meticulous and made sure every tile was perfectly placed. Our new tiles look amazing!"
+
+    },{
+        "id":6,
+        "image":"/images/six.png",
+        "name":"Samuel Simmons",
+        "description":"I was very satisfied with the carpentry work provided by TACKLES. They crafted beautiful custom furniture for us, and their craftsmanship was impeccable. Highly skilled team!"
+    }
+]
